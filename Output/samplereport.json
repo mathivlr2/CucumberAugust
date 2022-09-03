@@ -1,0 +1,328 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "FB bg",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 944037000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open the Facebook and launch the application",
+            "match": {
+              "location": "LoginStepdef.open_the_Facebook_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 332685700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "LoginStepdef.sampleaugwhen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepdef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2532891100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "FB login",
+        "description": "",
+        "id": "login-feature;fb-login",
+        "after": [
+          {
+            "result": {
+              "duration": 456653400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 620989200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Open the Facebook and launch the application",
+            "match": {
+              "location": "LoginStepdef.open_the_Facebook_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141560100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "LoginStepdef.sampleaugwhen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 73700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepdef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "FB bg",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 871588400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open the Facebook and launch the application",
+            "match": {
+              "location": "LoginStepdef.open_the_Facebook_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 140987800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "LoginStepdef.sampleaugwhen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepdef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1462533100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "FB login2",
+        "description": "",
+        "id": "login-feature;fb-login2",
+        "after": [
+          {
+            "result": {
+              "duration": 2500051600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 503400200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Open the Facebook and launch the application",
+            "match": {
+              "location": "LoginStepdef.open_the_Facebook_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 114861400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "LoginStepdef.sampleaugwhen()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 69700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepdef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "Features/sampleaug.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1306914300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "FB login4",
+        "description": "",
+        "id": "second-feature;fb-login4;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 2495626400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 896511000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open the Facebook and launch the application",
+            "match": {
+              "location": "LoginStepdef.open_the_Facebook_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 135213000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the Username as \"Syed\" and Password as \"pwd\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Syed\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"pwd\"",
+                  "offset": 45
+                }
+              ],
+              "location": "LoginStepdef.enter_the_Username_and_Password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 63700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Close the browser",
+            "match": {
+              "location": "LoginStepdef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Second Feature",
+    "description": "",
+    "id": "second-feature",
+    "keyword": "Feature",
+    "uri": "Features/secondaug.feature",
+    "tags": []
+  }
+]
